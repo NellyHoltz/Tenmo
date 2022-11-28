@@ -1,0 +1,2 @@
+2022-11-04T11:09:48.36677 400 : [{"timestamp":"2022-11-04T15:09:48.351+00:00","status":400,"error":"Bad Request","message":"JSON parse error: Cannot deserialize instance of `int` out of START_OBJECT token; nested exception is com.fas... (481 bytes)]
+2022-11-04T11:09:48.3850569 400 : [{"timestamp":"2022-11-04T15:09:48.383+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public void com.techelevator.tenmo.controller.TenmoController.updateBalance(com.techelevator.tenmo.model.Transfer)","path":"/account/balanceupdates/"}]
